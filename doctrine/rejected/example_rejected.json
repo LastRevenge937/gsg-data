@@ -1,0 +1,10 @@
+{
+  "doctrine_id": "rejected_doctrine",
+  "author": "placeholder",
+  "castle_uuid": "placeholder-uuid",
+  "version": "1.0.0",
+  "created": "placeholder-date",
+  "description": "Rejected placeholder doctrine",
+  "patch_type": "firewall_rule",
+  "applies_to": ["LIMBO"]
+}
