@@ -1,0 +1,12 @@
+{
+  "required": [
+    "doctrine_id",
+    "author",
+    "castle_uuid",
+    "version",
+    "created",
+    "description",
+    "patch_type",
+    "applies_to"
+  ]
+}
