@@ -1,1 +1,16 @@
-g
+{
+  "run_id": "run_001",
+  "source_castle": "placeholder",
+  "timestamp": "placeholder",
+  "summary": "Simulated attack: placeholder",
+  "files_copied": [
+    {
+      "filename": "malware_sample.py",
+      "frozen": true,
+      "read_only": true,
+      "analyzed": true
+    }
+  ],
+  "recommended_doctrines": ["placeholder_doctrine"]
+}
+
