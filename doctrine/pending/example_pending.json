@@ -1,0 +1,11 @@
+{
+  "doctrine_id": "placeholder_doctrine",
+  "author": "placeholder",
+  "castle_uuid": "placeholder-uuid",
+  "version": "1.0.0",
+  "created": "placeholder-date",
+  "description": "Placeholder doctrine",
+  "patch_type": "placeholder_patch",
+  "applies_to": ["placeholder_layer"]
+}
+
