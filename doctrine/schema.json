@@ -1,12 +1,19 @@
 {
-  "required": [
-    "doctrine_id",
-    "author",
-    "castle_uuid",
-    "version",
-    "created",
-    "description",
-    "patch_type",
-    "applies_to"
-  ]
+  "doctrine_id": "uuid",
+  "name": "Port Scan Hardening v1",
+  "origin": "PURGATORY",
+  "source_run": "run_001",
+  "source_castle": "placeholder",
+  "affected_layers": [0, 4],
+  "affected_cells": ["Firewall Cell", "Portcullis Cell"],
+  "risk_level": "medium",
+  "description": "Tightens port response timing under scan conditions",
+  "status": "PENDING",
+  "version": "1.0.0",
+  "checksum": "sha256-placeholder",
+  "created_at": "ISO-8601",
+  "approved_at": null,
+  "approved_by": null,
+  "notes": ""
 }
+
